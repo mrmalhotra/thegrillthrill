@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://thegrillthrill.com/</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/index.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/veg-main-course.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/nonveg-main-course.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/veg-tandoor.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/nonveg-tandoor.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/rice.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/bread.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/salad-and-raita.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/momos.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/pasta.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/burger.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/fries.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/sandwich.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/cuisine/pizza.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/about.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thegrillthrill.com/contact.html</loc>
+  <lastmod>2020-06-06T20:23:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
